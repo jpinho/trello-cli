@@ -1,0 +1,5 @@
+enum CommandType {
+  DISPLAY,
+  UNKNOWN
+}
+
